@@ -26,4 +26,4 @@ O projeto front-end, acesse o arquivo index.html para iniciar o uso do projeto.
 
 OBSERVAÇÃO 1: Lembre-se de realizar a migration para adicionar os campos na tabela.
 
-OBSERVAÇÃO 2: Antes de rodar o projeto, deve-se inserir os dados no banco com o endpoint /Usuarios/BuscarUsuariosApi através do Swagger.
+OBSERVAÇÃO 2: Antes de rodar o projeto, deve-se inserir os dados no banco com o endpoint /Usuarios/BuscarUsuariosApi através do Swagger, para os dados poderem serem exibidos corretamente no front-end.
